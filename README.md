@@ -1,2 +1,2 @@
 # hello-world
-création de site internet avec boutique en ligne et paiement sécuriser par cb
+Voila, je débute dans le codage informatique afin de créer mon site internet. Jusqu'a maintenant je ne connais que les langages HTML5 & CSS3. La je suis entrain de m'attaquer a JS.
